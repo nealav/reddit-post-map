@@ -1,0 +1,56 @@
+{
+    "canada" : "Canada",
+    "ontario" : "Ontario",
+    "quebec" : "Quebec",
+
+    "alaska" : "Alaska",
+
+    "arizona" : "Arizona", 
+    "phoenix" : "Phoenix",
+
+    "california" : "California",
+    "sanfrancisco" : "San Francisco",
+    "bayarea" : "Bay Area",
+    "sanjose" : "San Jose",
+    "berkeley" : "Berkeley",
+    "losangeles" : "Los Angeles",
+
+    "colorado" : "Colorado",
+    "denver" : "Denver",
+
+    "connecticut" : "Connecticut", 
+
+    "washingtondc" : "Washington DC",
+
+    "florida" : "Florida",
+
+    "chicago" : "Chicago",
+
+    "baltimore" : "Baltimore",
+
+    "boston" : "Boston",
+
+    "detroit" : "Detroit",
+
+    "minnesota" : "Minnesota",
+
+    "vegas" : "Las Vegas",
+    
+    "newjersey" : "New Jersey",
+
+    "nyc" : "New York City",
+
+    "portland" : "Portland",
+
+    "philadelphia" : "Philadelphia", 
+
+    "pittsburgh" : "Pittsburgh",
+
+    "texas" : "Texas", 
+    "austin" : "Austin",
+    "dallas" : "Dallas", 
+    "houston" : "Houston",
+
+    "seattle" : "Seattle", 
+    "seattlewa" : "Seattle"
+}
